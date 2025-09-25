@@ -13,7 +13,7 @@ I’m an aspiring Data Analyst with hands-on experience in delivering data-drive
 </picture>
 
 # 📫 Contact:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tejas.bhanarkar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tejas.bhanarkar101@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-bhanarkar)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/36SVNZDqys)
 [![Contact Form](https://img.shields.io/badge/Contact_Form-8E44AD?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScIxr7tlCUY9kJfPRTWcP8Xtp4JVLqK6V4RjFjdzqkXKqN-dg/viewform?usp=dialog)
